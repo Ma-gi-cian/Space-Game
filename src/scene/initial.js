@@ -22,7 +22,7 @@ class Initial extends Phaser.Scene {
       .text(
         screenWidth * 0.5,
         screenHeight * 0.5,
-        "Space Warfare\n by Bhabya Jha",
+        "Space Warfare\n by Bhabya Jha and \n Sohini Saha",
         {
           fontSize: "32px",
           fill: "#ffffff",
